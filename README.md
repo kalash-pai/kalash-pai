@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kalash Pai, a chemical engineer from India currently pursuing a graduate degree from Cornell University.
+- 👀 I’m interested in process modeling of chemical reaction networks and separation processes.
+- 🌱 I’m currently learning machine learning tools to estimate physio-chemical properties of chemical compounds.
+- 💞️ I’m looking to collaborate on design of energy systems and process control.
+- 📫 Reach me by sending a personal message on linkedin.com/in/kalash-pai 
